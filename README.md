@@ -1,6 +1,6 @@
 ### Igor | Fullstack Developer
 
-Hello everyone! I'm Igor, a passionate full-stack developer with expertise in React, JavaScript,node and TypeScript. I thrive on creating robust and efficient web applications that combine seamless user experiences with powerful functionality. Let's dive into my skills and experience! 💻🚀
+Hello everyone! I'm Igor, a passionate fullstack developer with expertise in React, JavaScript,node and TypeScript. I thrive on creating robust and efficient web applications that combine seamless user experiences with powerful functionality. Let's dive into my skills and experience! 💻🚀
 
 ## Technical Skills
 - Front-end Development 📔
