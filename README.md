@@ -1,6 +1,6 @@
 ### Igor | Fullstack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+like+to+code;A+lot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A631F7&vCenter=true&width=435&lines=I+enjoy+coding%2C+A+lot+(%E2%95%AF%C2%B0%E2%96%A1%C2%B0)%E2%95%AF%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB+of+time.)](https://git.io/typing-svg)
 
 Hello everyone! I'm Igor, a passionate fullstack developer with expertise in React, JavaScript,node and TypeScript. I thrive on creating robust and efficient web applications that combine seamless user experiences with powerful functionality. Let's dive into my skills and experience! 💻🚀
 
