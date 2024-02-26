@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor Ferreira
 =====================================================================================================================================
 
-Web/Mobile Developer
+Software engineer 
 --------------------
 
-I'm a passionate 22-year-old developer with an insatiable love for coding. Fueled by a profound belief that coding is the future, I immerse myself in lines of code with unwavering enthusiasm. My days are marked by an unrelenting dedication to my craft, often extending into what some might consider unhealthy hours.Indulging in a daily concoction of caffeinated beverages, energy drinks, and sugary delights, I power through lines of code with unwavering focus and an electrifying burst of productivity.
+I'm a passionate 23-year-old developer with an insatiable love for coding. Fueled by a profound belief that coding is the future, I immerse myself in lines of code with unwavering enthusiasm. My days are marked by an unrelenting dedication to my craft, often extending into what some might consider unhealthy hours.Indulging in a daily concoction of caffeinated beverages, energy drinks, and sugary delights, I power through lines of code with unwavering focus and an electrifying burst of productivity.
 
 *   🌍  I'm based in Brasília
 *   ✉️  You can contact me at [igbit@outlook.com](mailto:igbit@outlook.com)
