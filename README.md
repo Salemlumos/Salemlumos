@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 ```bash
 igor@github:~$ human --version
-<!--VERSION_START-->v25.3.3<!--VERSION_END-->
+<!--VERSION_START-->v25.3.4<!--VERSION_END-->
 ```
 Software engineer 
 --------------------
