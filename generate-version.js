@@ -9,7 +9,13 @@ let days = now.getDate() - birth.getDate();
 
 if (days < 0) {
   months--;
-  const prevMonth = new Date(now.getFullYear(), now.getMonth(), 0);
+
+  const prevMonth = new Date(
+    now.getFullYear(),
+    now.getMonth(),
+    0
+  );
+
   days += prevMonth.getDate();
 }
 
@@ -20,13 +26,22 @@ if (months < 0) {
 
 const version = `v${years}.${months}.${days}`;
 
+const readable = `${years} years, ${months} months, ${days} days`;
+
 const readme = fs.readFileSync("README.md", "utf8");
 
+const replacement = `<!--VERSION_START-->
+\`\`\`bash
+igor@github:~$ human --version
+<abbr title="${readable} since initial release on 2001-02-17">${version}</abbr>
+\`\`\`
+<!--VERSION_END-->`;
+
 const updated = readme.replace(
-  /<!--VERSION_START-->.*<!--VERSION_END-->/s,
-  `<!--VERSION_START-->${version}<!--VERSION_END-->`
+  /<!--VERSION_START-->[\s\S]*<!--VERSION_END-->/,
+  replacement
 );
 
 fs.writeFileSync("README.md", updated);
 
-console.log(version);
+console.log("Updated human version:", version);
