@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor Ferreira
 =====================================================================================================================================
 <!--VERSION_START-->
-```bash
-igor@github:~$ human --version
-<abbr title="25 years, 3 months, 4 days since initial release on 2001-02-17">v25.3.4</abbr>
-```
+<p align="left">
+  <code>igor@github:~$ human --version</code><br>
+  <abbr title="25 years, 3 months, 4 days since initial release on 2001-02-17">
+    <code>v25.3.4</code>
+  </abbr>
+</p>
 <!--VERSION_END-->
 Software engineer 
 --------------------
