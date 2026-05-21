@@ -11,12 +11,11 @@ FullStack/mobile developer from Brazil.
 Most of the time I'm building APIs, infrastructure stuff, automation tools, or integrating hardware with software.
 
 <!--VERSION_START-->
-
-<p>
-  <samp>
+<p align="left">
+  <code>
     igor@github:~$ human --version<br>
-    v25.3.4 <sub>(25y 3m 4d)</sub>
-  </samp>
+    v25.3.4 (25y 3m 4d)
+  </code>
 </p>
 <!--VERSION_END-->
 
