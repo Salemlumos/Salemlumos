@@ -31,10 +31,12 @@ const readable = `${years} years, ${months} months, ${days} days`;
 const readme = fs.readFileSync("README.md", "utf8");
 
 const replacement = `<!--VERSION_START-->
-\`\`\`bash
-igor@github:~$ human --version
-<abbr title="${readable} since initial release on 2001-02-17">${version}</abbr>
-\`\`\`
+<p align="left">
+  <code>igor@github:~$ human --version</code><br>
+  <abbr title="${readable} since initial release on 2001-02-17">
+    <code>${version}</code>
+  </abbr>
+</p>
 <!--VERSION_END-->`;
 
 const updated = readme.replace(
