@@ -32,10 +32,10 @@ const readme = fs.readFileSync("README.md", "utf8");
 
 const replacement = `<!--VERSION_START-->
 <p align="left">
-  <code>igor@github:~$ human --version</code><br>
-  <span title="${readable} since initial release on 2001-02-17">
-    <code>${version}</code>
-  </span>
+  <code>
+    igor@github:~$ human --version<br>
+    ${version} (${years}y ${months}m ${days}d)
+  </code>
 </p>
 <!--VERSION_END-->`;
 
