@@ -147,7 +147,7 @@ A lot of my projects involve:
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/salemLumos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/igorferreiradesouzacirino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/ifscdev/?locale=pt)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/salem_lumos)
 
 📫 [igbit@outlook.com](mailto:igbit@outlook.com)
