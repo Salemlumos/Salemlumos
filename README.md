@@ -14,7 +14,7 @@ Most of the time I'm building APIs, infrastructure stuff, automation tools, or i
 <p align="left">
   <code>
     igor@github:~$ human --version<br>
-    v25.8.18 (25y 8m 18d)
+    v25.8.19 (25y 8m 19d)
   </code>
 </p>
 <!--VERSION_END-->
